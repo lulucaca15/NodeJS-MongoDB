@@ -1,5 +1,5 @@
 Arguments: 
-  E:\nodejs\node.exe C:\Users\LucaZiliodeOliveira\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add dotenv
+  E:\nodejs\node.exe C:\Users\LucaZiliodeOliveira\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add uuid
 
 PATH: 
   C:\Python310\Scripts\;C:\Python310\;C:\ProgramData\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;E:\nodejs\;E:\anaconda;E:\anaconda\Library\mingw-w64\bin;E:\anaconda\Library\usr\bin;E:\anaconda\Library\bin;E:\anaconda\Scripts;C:\Users\LucaZiliodeOliveira\AppData\Local\Microsoft\WindowsApps;C:\Users\LucaZiliodeOliveira\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2021.2.2\bin;;C:\Users\LucaZiliodeOliveira\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\5.0\bin
